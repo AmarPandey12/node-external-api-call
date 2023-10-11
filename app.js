@@ -12,4 +12,4 @@ axios.get('https://jsonplaceholder.typicode.com/users').then((res)=>{
     console.log('This block will run all d time.');
 });
 
-console.log('application ran successfully');
+console.log('application ran successfully. Party!!!!');
